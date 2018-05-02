@@ -1,0 +1,20 @@
+#div1{
+    background-color: #10ac75;
+    
+     
+}
+#div2{
+    background-color: cornflowerblue;
+    
+}
+#div3{
+    background-color: gold;
+    
+}
+.contenido{
+    height: 500px;
+    font-size: 36px;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 100px;
+}
